@@ -1,2 +1,2 @@
 # Hesap-makinesi
-Ogreniyorum sadece deneme yapacam
+Hesapm makinesi yapmaya çalışıyorum hemde kendimi geliştiriyorum geliştirdikce hesap makinemi burayı güncelleyecem.
